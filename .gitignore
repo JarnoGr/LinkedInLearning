@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# My own stuff
+.vscode/settings.json
+.vscode/
+Ex_Files_NumPy_Data_EssT/Ch 1/dashboard/
+Ex_Files_Git_EssT
