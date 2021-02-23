@@ -134,3 +134,5 @@ dmypy.json
 .vscode/
 Ex_Files_NumPy_Data_EssT/Ch 1/dashboard/
 Ex_Files_Git_EssT
+desktop.ini
+.DS_Store
